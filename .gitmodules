@@ -22,3 +22,18 @@
 [submodule "mod/scene"]
 	path = mod/scene
 	url = https://gitlab.com/matt.donnelly/moodle-mod_scene
+[submodule "mod/devpage"]
+	path = mod/devpage
+	url = https://gitlab.com/artem-zaloga/devpage
+[submodule "filter/vuecomponents"]
+	path = filter/vuecomponents
+	url = https://gitlab.com/artem-zaloga/moodle-local_vuecomponents
+[submodule "local/autogroup"]
+	path = local/autogroup
+	url = https://gitlab.com/artem-zaloga/moodle-local_autogroup
+[submodule "filter/check_available_complete"]
+	path = filter/check_available_complete
+	url = https://gitlab.com/matt.donnelly/moodle-filter_check_available_complete
+[submodule "local/filter_check_available_complete_restore"]
+	path = local/filter_check_available_complete_restore
+	url = https://gitlab.com/matt.donnelly/moodle-local_filter_check_available_complete_restore
