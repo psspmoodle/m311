@@ -1,0 +1,24 @@
+[submodule "theme/boostchild"]
+	path = theme/boostchild
+	url = https://gitlab.com/matt.donnelly/moodle-theme_boostchild
+[submodule "course/format/topics_advanced"]
+	path = course/format/topics_advanced
+	url = https://gitlab.com/matt.donnelly/moodle-format_topics_advanced
+[submodule "local/cohort_welcome"]
+	path = local/cohort_welcome
+	url = https://gitlab.com/matt.donnelly/moodle-local_cohort_welcome
+[submodule "course/format/cop"]
+	path = course/format/cop
+	url = https://github.com/psspmoodle/moodle-format_cop
+[submodule "mod/scheduler"]
+	path = mod/scheduler
+	url = https://github.com/psspmoodle/moodle-mod_scheduler
+[submodule "mod/ctsr"]
+	path = mod/ctsr
+	url = https://github.com/psspmoodle/moodle-mod_ctsr
+[submodule "mod/path"]
+	path = mod/path
+	url = https://github.com/psspmoodle/moodle-mod_path
+[submodule "mod/scene"]
+	path = mod/scene
+	url = https://gitlab.com/matt.donnelly/moodle-mod_scene
